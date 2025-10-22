@@ -1,0 +1,9 @@
+Item,Description,Quantity,Price,Link
+Arduino Nano V3.0,Main 5V microcontroller board (from previous project),1,0,from previous project
+MT3608 Boost Converter,Steps up 3.7V to 5V for Nano and LED strip (from previous project),1,0,from previous project
+TP4057 USB-C Charging Module,Charges LiPo battery safely via USB-C (from previous project),1,0,from previous project
+3.7V 1000mAh LiPo Battery,Rechargeable battery for portable power,1,7.99,https://www.amazon.com/gp/product/B07BTWK13N/ref=ox_sc_act_image_5?smid=A132D7PL1YID8X&psc=1
+WS2812B RGB LED Strip (30 LEDs),Addressable RGB LED strip for starfield effect,1,13.99,https://www.amazon.com/gp/product/B097BWJGYK/ref=ox_sc_act_title_1?smid=A1KV5GR1U2IFEZ&psc=1
+Men’s Windbreaker Jacket,Base garment to mount LEDs inside back lining,1,14.99,https://www.amazon.com/gp/product/B0D9B32SYD/ref=ox_sc_act_title_2?smid=A2ER5IBZXNG77J&psc=1
+Heat Shrink / Electrical Tape,Insulation and protection for wire joints,3,6.39,https://www.amazon.com/SWRT-Electrical-Retardant-Professional-Installations/dp/B0FCF2M3M3/ref=sr_1_2_sspa?crid=1ZMK998TXB0RP&dib=eyJ2IjoiMSJ9.BGSX0-EWEBEXxCf8SXqS4gKtZeIWxnZ8DeKqbrKjjcToBGw152Q-okcAGNtxUdOzBvTgeALCPv1XYlRk49YMibkaZxHB84vnIvsv_BZCFaYVGHter9emGSNuw0LxzZOXgk3HQ2dwwOKWTcfjIjpTLhgMehwj88bVyvDZXoCD9SeNYegMSsEp0yIvdRfzOpV6bR3Ofv0TjoGXiuTp4Q4dZwPmzVPcTQREKXA1ivjtqto.QqmxU6sDYD-_XP20GiBqA9kPeaqGPqDYx1LM4j106rs&dib_tag=se&keywords=electrical%2Btape&qid=1761120347&sprefix=electrical%2Btap%2Caps%2C116&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1
+Total,,,43.36,
